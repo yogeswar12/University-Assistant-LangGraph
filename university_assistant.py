@@ -1,5 +1,5 @@
 # =============================================================
-# CAPSTONE -- Multi-Agent University Assistant
+#  Multi-Agent University Assistant
 # =============================================================
 
 from typing import TypedDict, Optional, Annotated
